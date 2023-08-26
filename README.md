@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suvojit_Sengupta ak SSG
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D18F7&width=435&lines=Hello_I_+am+suvojit_Sengupta+;%3E%3E+a.k.a+SSG)](https://git.io/typing-svg)
 - 👀 Interested in web_dev/android
 - 🌱 Currently learning php/Laravel 
 - 💞️ Looking to collaborate on WEB/android projects 
