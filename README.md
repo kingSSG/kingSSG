@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D18F7&width=435&lines=Hello_I_+am+suvojit_Sengupta+;%3E%3E+a.k.a+SSG)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=38&pause=1000&color=4276FF&width=700&height=63&separator=%3C&lines=Hello_World+I+am+Suvojit_Sengupta+;%3Ca.k.a+%3E%3E++SSG" alt="Typing SVG" />
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="left">Connect with me:</h3>
