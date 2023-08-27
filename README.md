@@ -54,10 +54,6 @@
 <br>
 <p align="center" >
     <img align="center" style="padding-top: 20px; " src="https://github-readme-stats.vercel.app/api/top-langs?username=kingssg&show_icons=true&locale=en&layout=compact" alt="kingssg" /></p>
-    
-<p align="center">
-<img style="padding-top: 20px; padding-left:10px " src="https://github-readme-stats.vercel.app/api?username=kingssg&show_icons=true&locale=en" alt="kingssg" /></p>
-<p align="center">
-<img style="padding-top: 20px; padding-left:10px " src="https://github-readme-streak-stats.herokuapp.com/?user=kingssg&" alt="kingssg" /></p>
+
 
 
