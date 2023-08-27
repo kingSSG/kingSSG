@@ -44,7 +44,10 @@
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
                             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png" alt="linux" width="40" height="40"/> </a> 
                             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" alt="mysql" width="40" height="40"/> </a> <br>            
+                                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" alt="mysql" width="40" height="40"/> </a> 
+                                 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+                                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/> </a>
+  <br>            
             <h3 align="left">Frame_work : </h3> 
                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg" alt="laravel" width="40" height="40"/> </a>               
