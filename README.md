@@ -18,11 +18,11 @@
  <h3 >languages I have worked with:</h3> 
               <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> 
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/>
-            </a> 
             <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
                 <img src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png" alt="java" width="40" height="40"/> 
+                                                                                                      </a>           
+                <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/>
             </a> 
              <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
                     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" alt="python" width="40" height="40"/> </a> 
