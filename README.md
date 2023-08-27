@@ -3,7 +3,7 @@
 
 
   <div style=" padding-top: 5px;  padding-left: 50px;">
-    <h2 align="left">Connect with me:</h3>
+    <h2 align="left">Connect with me :</h3>
       <img align="right" alt="coding" width="350" height="450" src="https://github.com/kingSSG/Convert-Number-To-Words-/assets/66203670/8dc57db4-04f1-48b2-9fae-d129c35a6add">  
 <p align="left">
 <a href="https://www.linkedin.com/in/suvojit-sengupta-82115820a/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="suvojit sengupta" height="50" width="50" /></a>
@@ -12,10 +12,10 @@
 <a href="http://suvojitsengupta.000.pe/" target="blank"><img align="center" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-52-82_512.gif" alt="suvojit_sengupta" height="40" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools :</h3>
 
 <p align="left" class="p">
- <h3 >languages I have worked with:</h3> 
+ <h3 >languages I have worked with :</h3> 
               <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> 
             <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -45,7 +45,7 @@
                             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png" alt="linux" width="40" height="40"/> </a> 
                             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
                                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" alt="mysql" width="40" height="40"/> </a> <br>            
-            <h3 align="left">Frame_work: :</h3> 
+            <h3 align="left">Frame_work : </h3> 
                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg" alt="laravel" width="40" height="40"/> </a>               
             </p>
