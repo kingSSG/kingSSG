@@ -50,25 +50,7 @@
                     <img src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg" alt="laravel" width="40" height="40"/> </a>               
             </p>
         </div>
-<br>
-<div  
-style="position: absolute;
-right: 150px;
-width: 900px;
-height: 300px;
-border: 3px solid green;
-    overflow:auto;
-    background-color:rgb(0, 0, 0);
-    color:rgb(65, 248, 19);
-    scrollbar-base-color:rgb(255, 255, 254);
-    font-family:sans-serif;">
-    <br>
-    - 👀 Interested in web_dev/android <br>
-    - 🌱 Currently AI/ML <br>
-    - 💞️ Looking to collaborate on WEB/android projects <br>
-    - 📫 Reach me- suvojit.sengupta.ssg@gmail.com <br>
-    <br>Hi there! I'm a Computer Science student with a passion for programming and web development. I have experience in several programming languages, including C, C++, Java, Python, and PHP. Currently, I'm working on developing web applications using the Laravel framework. I'm always looking to learn and expand my knowledge, so I'm excited to collaborate on open-source projects and contribute to the developer community. Let's connect and build some awesome software together!
-</div>
+
 <br>
 <p>
     <img style="padding-top: 20px; padding-left:10px " src="https://github-readme-stats.vercel.app/api/top-langs?username=kingssg&show_icons=true&locale=en&layout=compact" alt="kingssg" /></p>
