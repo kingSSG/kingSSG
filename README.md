@@ -1,5 +1,4 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=38&pause=1000&color=4276FF&width=700&height=63&separator=%3C&lines=Hello_World+I+am+Suvojit_Sengupta+;%3Ca.k.a+%3E%3E++SSG" alt="Typing SVG" />
-    <h3 align="center">Coding like poetry should be short and concise</h3>
 </p> 
 
 
