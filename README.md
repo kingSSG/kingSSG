@@ -30,11 +30,11 @@
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/> </a> 
                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVxowEtk24NWnd_CHjvgGFWm8wqkEGxKK7UcqHxka1F5HUf8kdDsaM3iT1plnKDbmHTk&usqp=CAU" alt="html5" width="40" height="40"/> </a> 
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5" width="40" height="40"/> </a> 
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> 
                 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn-icons-png.flaticon.com/512/460/460775.png" alt="php" width="40" height="40"/> </a>     
+                    <img src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" alt="php" width="50" height="35"/> </a>     
                         <br>
             <h3 align="left">Tools that I use :</h3> 
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
