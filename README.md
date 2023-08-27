@@ -2,9 +2,10 @@
     <h3 align="center">Coding like poetry should be short and concise</h3>
 </p> 
 
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
+
   <div style=" padding-top: 5px;  padding-left: 50px;">
     <h2 align="left">Connect with me:</h3>
+      <img align="right" alt="coding" width="500" height="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
 <p align="left">
 <a href="https://www.linkedin.com/in/suvojit-sengupta-82115820a/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTagwUJR5JJfZLwib1Jn3dFy4y7GrkatBhZg&usqp=CAU" alt="suvojit sengupta" height="40" width="40" /></a>
 <a href="https://www.instagram.com/suvojit_sengupta/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVcgIvHq5aGHI9yExNe4-qkwQRuswLHx5HKkm_2lJq2hwvdnhrQFl6TAeDnLhQav1K2rc&usqp=CAU" alt="suvojit_sengupta" height="40" width="40" /></a>
