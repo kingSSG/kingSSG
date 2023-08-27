@@ -4,7 +4,7 @@
 
   <div style=" padding-top: 5px;  padding-left: 50px;">
     <h2 align="left">Connect with me:</h3>
-      <img align="right" alt="coding" width="500" height="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">  
+      <img align="right" alt="coding" width="350" height="450" src="https://github.com/kingSSG/Convert-Number-To-Words-/assets/66203670/8dc57db4-04f1-48b2-9fae-d129c35a6add">  
 <p align="left">
 <a href="https://www.linkedin.com/in/suvojit-sengupta-82115820a/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="suvojit sengupta" height="50" width="50" /></a>
 <a href="https://www.instagram.com/suvojit_sengupta/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="suvojit_sengupta" height="40" width="40" /></a>
@@ -52,12 +52,12 @@
         </div>
 
 <br>
-<p>
-    <img style="padding-top: 20px; padding-left:10px " src="https://github-readme-stats.vercel.app/api/top-langs?username=kingssg&show_icons=true&locale=en&layout=compact" alt="kingssg" /></p>
+<p align="center" >
+    <img align="center" style="padding-top: 20px; " src="https://github-readme-stats.vercel.app/api/top-langs?username=kingssg&show_icons=true&locale=en&layout=compact" alt="kingssg" /></p>
     
-<p>
+<p align="center">
 <img style="padding-top: 20px; padding-left:10px " src="https://github-readme-stats.vercel.app/api?username=kingssg&show_icons=true&locale=en" alt="kingssg" /></p>
-<p>
+<p align="center">
 <img style="padding-top: 20px; padding-left:10px " src="https://github-readme-streak-stats.herokuapp.com/?user=kingssg&" alt="kingssg" /></p>
 
 
