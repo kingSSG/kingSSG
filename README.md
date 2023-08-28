@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/suvojit-sengupta-82115820a/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="suvojit sengupta" height="50" width="50" /></a>
 <a href="https://www.instagram.com/suvojit_sengupta/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="suvojit_sengupta" height="40" width="40" /></a>
-  <a href="https://www.codechef.com/users/s_s_g" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="suvojit_sengupta" height="40" width="40" /></a>
+  <a href="https://www.hackerrank.com/suvojit_sengupt1?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="suvojit_sengupta" height="50" width="50" /></a>
 <a href="http://suvojitsengupta.000.pe/" target="blank"><img align="center" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-52-82_512.gif" alt="suvojit_sengupta" height="40" width="40" /></a>
 </p>
 
