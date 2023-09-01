@@ -34,7 +34,7 @@
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> 
                 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-                    <img src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" alt="php" width="50" height="35"/> </a>     
+                    <img src="https://github.com/kingSSG/Students_java/assets/66203670/0cd472fc-733d-42c8-96ab-58a0ac2589e9" alt="php" width="50" height="50"/> </a>     
                         <br>
             <h3 align="left">Tools that I use :</h3> 
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
