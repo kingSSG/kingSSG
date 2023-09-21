@@ -58,7 +58,7 @@
 
 <p align="center" >
     <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=kingssg&show_icons=true&locale=en&layout=compact" alt="kingssg" /></p>
-    <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingssg&row=1&column=3" alt="kingssg" /> </p>
+    <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingssg&row=2&column=3" alt="kingssg" /> </p>
 
 
 
