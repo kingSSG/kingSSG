@@ -1,3 +1,4 @@
+[![An image of @kingssg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kingssg)](https://holopin.io/@kingssg) <br> <br>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=38&pause=1000&color=4276FF&width=700&height=63&separator=%3C&lines=Hello_World+I+am+Suvojit_Sengupta" alt="Typing SVG" />
 </p> 
 
@@ -61,7 +62,7 @@
     <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingssg&theme=gruvbox&row=2&column=3" alt="kingssg" /> </p>
     
     
-  [![An image of @kingssg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kingssg)](https://holopin.io/@kingssg)
+
 
 
 
