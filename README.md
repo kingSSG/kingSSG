@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/suvojit-sengupta-82115820a/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="suvojit sengupta" height="50" width="50" /></a>
 <a href="https://www.instagram.com/suvojit_sengupta/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="suvojit_sengupta" height="40" width="40" /></a>
-  <a href="https://www.hackerrank.com/suvojit_sengupt1?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="suvojit_sengupta" height="50" width="50" /></a>
+  <a href="https://leetcode.com/u/kingSSG/" target="blank"><img align="center" src="https://image.pngaaa.com/118/4868118-middle.png" alt="suvojit_sengupta" height="50" width="50" /></a>
 <a href="http://suvojitsenguptaportfolio.kesug.com/" target="blank"><img align="center" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-52-82_512.gif" alt="suvojit_sengupta" height="40" width="40" /></a>
 </p>
 
