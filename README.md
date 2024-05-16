@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/suvojit-sengupta-82115820a/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="suvojit sengupta" height="50" width="50" /></a>
 <a href="https://www.instagram.com/suvojit_sengupta/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="suvojit_sengupta" height="40" width="40" /></a>
-  <a href="https://leetcode.com/u/kingSSG/" target="blank"><img align="center" src="https://image.pngaaa.com/118/4868118-middle.png" alt="suvojit_sengupta" height="50" width="50" /></a>
+  <a href="https://leetcode.com/u/kingSSG/" target="blank"><img align="center" src="https://scontent.fixb5-1.fna.fbcdn.net/v/t39.30808-6/305317853_616467910000160_3824851731065368025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_aid=0&_nc_ohc=vGj6X_JP1hEQ7kNvgG0RQq2&_nc_ht=scontent.fixb5-1.fna&oh=00_AYABj2T-Cl5OFkizYKDi0fzD6IY-MMxLm92lAq099aofkQ&oe=664BAD9B" alt="suvojit_sengupta" height="50" width="50" /></a>
 <a href="http://suvojitsenguptaportfolio.kesug.com/" target="blank"><img align="center" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-52-82_512.gif" alt="suvojit_sengupta" height="40" width="40" /></a>
 </p>
 
