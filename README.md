@@ -48,10 +48,25 @@
                                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" alt="mysql" width="40" height="40"/> </a> 
                                  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
                                 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/> </a>
+                                <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+                              <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/>
+                              </a>
   <br>            
             <h3 align="left">Frame_work : </h3> 
                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg" alt="laravel" width="40" height="40"/> </a>               
+                    <img src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg" alt="laravel" width="40" height="40"/> </a>
+                          <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                              <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
+                          </a>
+                          <!-- Spring -->
+<a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" width="40" height="40"/> 
+</a>
+
+<!-- Spring Boot -->
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="spring boot" width="40" height="40"/> 
+</a>           
             </p>
         </div>
 
