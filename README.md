@@ -3,8 +3,16 @@
 </p> 
 
 
+---
+
+## 👋 About Me
+
+Hi, I'm **Suvojit Sengupta**, a passionate software developer from India.  
+I love building projects with **Java, Python, Laravel, React**, and exploring **AI/ML, OCR, and NLP** applications.
+
+---
   <div style=" padding-top: 5px;  padding-left: 50px;">
-    <h2 align="left">Connect with me :</h3>
+    <h2 align="left">🌐 Connect with Me :</h3>
       <img align="right" alt="coding" width="350" height="450" src="https://github.com/kingSSG/Convert-Number-To-Words-/assets/66203670/8dc57db4-04f1-48b2-9fae-d129c35a6add">  
 <p align="left">
 <a href="https://www.linkedin.com/in/suvojit-sengupta-82115820a/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="suvojit sengupta" height="50" width="50" /></a>
@@ -13,7 +21,7 @@
 <a href="http://portfolio-with-react-three.vercel.app/" target="blank"><img align="center" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-52-82_512.gif" alt="suvojit_sengupta" height="40" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools :</h3>
+<h2 align="left">💻 Languages I’ve Worked With:</h3>
 
 <p align="left" class="p">
  <h3 >languages I have worked with :</h3> 
@@ -37,7 +45,7 @@
                 <a href="https://www.php.net" target="php" rel="noreferrer"> 
                     <img src="https://github.com/kingSSG/Students_java/assets/66203670/0cd472fc-733d-42c8-96ab-58a0ac2589e9" alt="php" width="50" height="50"/> </a>     
                         <br>
-            <h3 align="left">Tools that I use :</h3> 
+            <h3 align="left">🛠️ Tools I Use:</h3> 
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
                 <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> 
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -52,19 +60,19 @@
                               <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/>
                               </a>
   <br>            
-            <h3 align="left">Frame_work : </h3> 
+            <h3 align="left">🔧 Frameworks: </h3> 
                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg" alt="laravel" width="40" height="40"/> </a>
                           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                               <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
                           </a>
                           <!-- Spring -->
-<a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" width="40" height="40"/> 
-</a>
-
-<!-- Spring Boot -->
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+  <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" width="40" height="40"/> 
+  </a>
+  
+  <!-- Spring Boot -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="spring boot" width="40" height="40"/> 
 </a>           
             </p>
